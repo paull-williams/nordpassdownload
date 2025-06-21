@@ -7,7 +7,8 @@ In today's digital world, where privacy and security are of utmost importance, m
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://i-downloadsoftwares.com/
+
 
 What is NordPass?
 =================
