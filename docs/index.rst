@@ -3,7 +3,7 @@ How to Download and Set Up NordPass?
 
 In today's digital world, where privacy and security are of utmost importance, managing passwords has become a significant challenge for many. Fortunately, password managers like **NordPass** offer an efficient solution to store, secure, and retrieve passwords effortlessly. If you're looking to enhance your digital security and streamline your password management, downloading **NordPass** is the first step. This article will guide you through the process of downloading NordPass, its features, and how to make the most out of this password manager.
 
-.. image:: click-download.png
+.. image:: download.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
